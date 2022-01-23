@@ -12,9 +12,11 @@ Major project developed for the course Prototyping Interactive Systems (PIS) dur
 - It also prevents bleaching of clothes which is caused by overexposure to the Sun.
 - It also to prevent clothes from getting wet if it rains. <br/>
 - **All in all, it makes drying clothes an easier and smoother experience.** 
-### Our Website
+### [Visit Our Website](https://prashasti19075.wixsite.com/dryline)
+- Contains image gallery and behind the scenes 
+- Contains Project Poster
 [![Website Image](https://github.com/prashasti19075/Dryline/blob/master/Illustrations/website.png)](https://prashasti19075.wixsite.com/dryline)
 
-### Watch the Video 
+### [Watch the Video](https://www.youtube.com/watch?v=nwJG8RkmjL0)
 [![Website Image](https://github.com/prashasti19075/Dryline/blob/master/Illustrations/main.jfif)](https://www.youtube.com/watch?v=nwJG8RkmjL0)
 
