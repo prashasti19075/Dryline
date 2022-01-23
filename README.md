@@ -6,7 +6,8 @@ Major project developed for the course Prototyping Interactive Systems (PIS) dur
 - If it starts raining the app sounds a buzzer on your mobile phone to inform you that it is raining.
 - Moisture sensors have been used to check if the clothes are dry and rain sensor to detect rainfall and raise an alarm.
 - The app has been developed using [MIT App Inventor](https://appinventor.mit.edu/).
-- The app is connected to the Arduino using a Bluetooth module.
+- Prototyped using Autodesk Fusion 360
+- The app is connected to the Arduino using a Bluetooth module. 
 - Dryline aims to save people from the trouble of repeatedly checking if their clothes are dry.
 - It also prevents bleaching of clothes which is caused by overexposure to the Sun.
 - It also to prevent clothes from getting wet if it rains. <br/>
